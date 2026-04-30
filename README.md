@@ -1,16 +1,34 @@
-## Hi there 👋
+## Hey there! 👋
 
-<!--
-**Rishit2893/Rishit2893** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Rishit**, based in Germany 🇩🇪
 
-Here are some ideas to get you started:
+I enjoy building things with code and exploring how modern technologies work together — from software systems to AI and even hardware.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If something sparks my curiosity, I dive in, figure it out, and ship it 🚀
+
+---
+
+### 🧠 Interests
+
+- Software development & system design  
+- Machine Learning & AI (especially LLMs)  
+- DevOps & automation  
+- Understanding systems from low-level to high-level  
+
+---
+
+### 🚀 Projects
+
+I like working on practical projects, experimenting with ideas, and continuously learning by building.
+
+---
+
+### 🌐 Connect
+
+Feel free to connect or collaborate!
+
+- Email: *[rishitkhadawala289@gmail.com]*  
+
+---
+
+> Build. Learn. Improve.
